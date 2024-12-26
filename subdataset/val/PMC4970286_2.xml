@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>PMC4970286_2.jpg</filename>
+   <path>PMC4970286_2.jpg</path>
+   <source>
+      <database>PubTables1M-Detection</database>
+   </source>
+   <size>
+      <width>753</width>
+      <height>1000</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>71.6189833653269</xmin>
+         <ymin>126.50427754508202</ymin>
+         <xmax>366.3936318274107</xmax>
+         <ymax>261.1657883755639</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>71.6189833653269</xmin>
+         <ymin>605.285536639684</ymin>
+         <xmax>679.7265924891639</xmax>
+         <ymax>910.626847716339</ymax>
+      </bndbox>
+   </object>
+</annotation>

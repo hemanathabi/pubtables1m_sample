@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>PMC6568420_7.jpg</filename>
+   <path>PMC6568420_7.jpg</path>
+   <source>
+      <database>PubTables1M-Detection</database>
+   </source>
+   <size>
+      <width>773</width>
+      <height>1000</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>45.4118416979422</xmin>
+         <ymin>114.62562252776792</ymin>
+         <xmax>684.3251378676471</xmax>
+         <ymax>252.6319869840988</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>45.41168771382251</xmin>
+         <ymin>753.698792120423</ymin>
+         <xmax>684.5752850700827</xmax>
+         <ymax>890.0689019097222</ymax>
+      </bndbox>
+   </object>
+</annotation>

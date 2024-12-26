@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>PMC4411717_4.jpg</filename>
+   <path>PMC4411717_4.jpg</path>
+   <source>
+      <database>PubTables1M-Detection</database>
+   </source>
+   <size>
+      <width>750</width>
+      <height>1000</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>71.42893509864963</xmin>
+         <ymin>129.2231726906735</ymin>
+         <xmax>678.6343579135942</xmax>
+         <ymax>228.6085578149549</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>71.42850734573827</xmin>
+         <ymin>820.6512966743994</ymin>
+         <xmax>366.10043246171796</xmax>
+         <ymax>919.2336786912516</ymax>
+      </bndbox>
+   </object>
+</annotation>

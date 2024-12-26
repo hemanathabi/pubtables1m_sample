@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>PMC6101359_6.jpg</filename>
+   <path>PMC6101359_6.jpg</path>
+   <source>
+      <database>PubTables1M-Detection</database>
+   </source>
+   <size>
+      <width>773</width>
+      <height>1000</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>45.41172620985243</xmin>
+         <ymin>116.33259359032216</ymin>
+         <xmax>630.8205452713312</xmax>
+         <ymax>205.31623532073667</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>252.3033073275697</xmin>
+         <ymin>793.8549927990846</ymin>
+         <xmax>654.7787419736775</xmax>
+         <ymax>851.3435594963305</ymax>
+      </bndbox>
+   </object>
+</annotation>

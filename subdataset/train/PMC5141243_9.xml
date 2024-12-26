@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder/>
+   <filename>PMC5141243_9.jpg</filename>
+   <path>PMC5141243_9.jpg</path>
+   <source>
+      <database>PubTables1M-Detection</database>
+   </source>
+   <size>
+      <width>764</width>
+      <height>1000</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>table</name>
+      <pose>Frontal</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <occluded>0</occluded>
+      <bndbox>
+         <xmin>392.3946332626611</xmin>
+         <ymin>98.63531626388696</ymin>
+         <xmax>704.4921581068065</xmax>
+         <ymax>238.22243903691785</ymax>
+      </bndbox>
+   </object>
+</annotation>
